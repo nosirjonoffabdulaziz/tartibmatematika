@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <!-- Royal Blue Background -->
+  <rect width="100" height="100" rx="20" fill="#0056E0"/>
+  
+  <!-- Outer Arch with flat horizontal base -->
+  <path d="M 22 64 V 42 C 22 26.54 34.54 14 50 14 C 65.46 14 78 26.54 78 42 V 64 H 67 V 42 C 67 32.61 59.39 25 50 25 C 40.61 25 33 32.61 33 42 V 64 Z" 
+        fill="#FFFFFF"/>
+        
+  <!-- 4-point Golden Diamond Star -->
+  <polygon points="50,38 58,49 50,60 42,49" fill="#FFB703"/>
+  
+  <!-- Stylized Open Book Foundation with central notch -->
+  <path d="M 25 68 C 33 68 42 66.5 49 71.5 C 49.6 72 50.4 72 51 71.5 C 58 66.5 67 68 75 68 C 77.2 68 78.5 69.5 78.5 72 C 78.5 74.5 77 76.5 74.5 76.5 C 67 76.5 59.5 75 54.5 78 C 53.5 78.6 52.5 82.5 50 82.5 C 47.5 82.5 46.5 78.6 45.5 78 C 40.5 75 33 76.5 25.5 76.5 C 23 76.5 21.5 74.5 21.5 72 C 21.5 69.5 22.8 68 25 68 Z" 
+        fill="#FFFFFF"/>
+</svg>

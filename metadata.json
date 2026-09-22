@@ -1,0 +1,6 @@
+{
+  "name": "IlmHub Math",
+  "description": "Matematika va fizika masalalarini bosqichma-bosqich yeçish, formulalar kutubxonasi va animatsiyali ta'lim platformasi.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
